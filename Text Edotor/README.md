@@ -1,4 +1,4 @@
-                                Text Editor on JavaScript.
+                                    Text Editor on JavaScript.
 _______________________________________________________________________________________________________
                                 
-  ![WeatherApp](https://github.com/ElizZotova/Fronted/blob/main/WeatherApp/WeatherApp.PNG)
+  ![TextEditor](https://github.com/ElizZotova/Frontend/blob/main/Text%20Edotor/TextEditor.PNG)
